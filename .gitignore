@@ -3,6 +3,14 @@
 
 # Diary data files
 diary_entries.json
+voice_diary_*.json
+simple_voice_diary_*.json
+
+# Temporary audio files
+*.wav
+*.mp3
+voice_diary_*.wav
+voice_diary_tts_*.mp3
 
 # Python
 __pycache__/
